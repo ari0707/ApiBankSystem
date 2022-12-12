@@ -148,4 +148,4 @@ The AccountHolders should be able to access their own accounts and only their ac
 | GET     | /api/accounts/{account_id}/transactions/{transaction_id}         | ADMIN, USER | 
 
 ### SQL Relations Diagram
-![sql relations diagram](https://github.com/ari0707/ApiBankSystem/blob/main/src/main/resources/static/Diagrama%20de%20clases.png)https://github.com/ari0707/ApiBankSystem/blob/main/src/main/resources/static/Diagrama%20de%20clases.png)
+![sql relations diagram](https://github.com/ari0707/ApiBankSystem/blob/main/src/main/resources/static/Diagrama%20de%20clases.png)
