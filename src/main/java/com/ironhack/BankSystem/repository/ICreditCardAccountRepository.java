@@ -7,4 +7,5 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface ICreditCardAccountRepository extends IAccountBaseRepository<CreditCardAccount>, JpaRepository<CreditCardAccount, Long> {
+
 }
